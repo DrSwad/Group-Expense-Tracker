@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="groups">Groups</string>
+    <string name="analytics">Analytics</string>
+    <string name="settings">Settings</string>
+</resources> 
